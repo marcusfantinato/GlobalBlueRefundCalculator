@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dear Product Owner, I hope you are doing well.
+
+I would like you to give me more information about the project.
+I have some questions to finalize the Test Cases. Could you answer me?
+
+1 - What is the calculation formula for Tax Refund?
+I realized that it varies depending on Country and Values
+ 
+2 - How is the minimum “Purchase Amount” defined?
+I also realized that it varies depending on Country
+
+I look forward to hearing from you.
+
+Thank you.
+
+Marcus VInicius Fantinato
+Test Analyst
+marcusfantinato@gmail.com
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+I haven’t done the test cases for testing the refund calculation, Equivalence Partitioning and Boundary Value analysis because of lacking above information

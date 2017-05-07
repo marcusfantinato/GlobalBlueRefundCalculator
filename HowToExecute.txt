@@ -1,0 +1,2 @@
+1 - The Geckodriver.exe should be in Folder "D:/geckodriver.exe". If it is not possible. Add in another folder and change the address in the code: src\test\java\GloblaBlue\GloblaBlue\RefundCalculator\CalculateRefund
+2 - Run the Project from src\RefundCalculator\resource\CalculateRefund.feature
